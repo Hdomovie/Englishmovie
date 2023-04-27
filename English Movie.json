@@ -355,31 +355,31 @@
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "",
+			"Video_Id": "aOb15GVFZxU",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "",
-			"Movieimg":"https://i.ytimg.com/vi/Qumm9iKpRe8/maxresdefault.jpg",
+			"Movie_name": "FAST X",
+			"Movieimg":"https://i.ytimg.com/vi/aOb15GVFZxU/maxresdefault.jpg",
             "Description": "",
             "Language": "English"
 		},
 		{
 			"id": 2,
-			"Video_Id": "",
+			"Video_Id": "19ikl8vy4zs",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "",
-			"Movieimg":"https://i.ytimg.com/vi/NNVx4vm8bxU/maxresdefault.jpg",
+			"Movie_name": "THE EQUALIZER 3",
+			"Movieimg":"https://i.ytimg.com/vi/8VWfmPm5d1o/maxresdefault.jpg",
             "Description": "",
             "Language": "English"
 		},
 		{
 			"id": 3,
-			"Video_Id": "",
+			"Video_Id": "bHXejJq5vr0",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "",
-			"Movieimg":"https://i.ytimg.com/vi/BC9s_Zof_Xk/maxresdefault.jpg",
+			"Movie_name": "65",
+			"Movieimg":"https://i.ytimg.com/vi/bHXejJq5vr0/maxresdefault.jpg",
             "Description": "",
             "Language": "English"
 		},
