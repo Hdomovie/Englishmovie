@@ -948,10 +948,108 @@
 		},
 		{
 			"id": 136,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "jG0s5ve6l6g",
+			"Movie_name": "Cat City",
+			"Description": "Victoria Compton discovers her husband, Nick, is having an affair.  But she realizes that it is much more when Vance Roland shows up looking for the money.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMzY3MDg1NTQ5Ml5BMl5BanBnXkFtZTcwOTUzMjY2MQ@@._V1_.jpg"
+		},
+		{
+			"id": 137,
+			"Video_Id": "wp5Ual-EWq0",
+			"Movie_name": "The Riverbank",
+			"Description": "The Riverbank is an ingenious psychological thriller. At its centre is Kate Mason, is a thirty-something anthropologist who delves deep into her family's secrets to discover the truth behind the disappearance of her mother 30 years ago.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYWZlOGEyYzMtNTE3OS00NmEyLTgyZmUtZjMyZjE2NTIwM2Y4XkEyXkFqcGdeQXVyODY5MTYzNDA@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 138,
+			"Video_Id": "sAFQmJGeq64",
+			"Movie_name": "Carousel of Revenge",
+			"Description": "When strangers Frank Delano and his Uncle Bobby purchase the local amusement park of a \"peaceful\" resort town they stir up guilt and suspicion among the locals over a murder and suicide the town would rather forget.",
+			"Movieimg": "https://m.media-amazon.com/images/I/817jMCPFJwL._RI_.jpg"
+		},
+		{
+			"id": 139,
+			"Video_Id": "7SSw2hrhDsU",
+			"Movie_name": "The Holding",
+			"Description": "Sometimes our worst secrets can't be buried. What we think is the right thing to do can be the most dangerous thing of all.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTA5MjQ2MzcwMzZeQTJeQWpwZ15BbWU3MDAxNjY0OTU@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 140,
+			"Video_Id": "kOGmuHJLgFc",
+			"Movie_name": "Bad Bush",
+			"Description": "A young woman with her baby walk to a remote farmhouse to find her sister. Her sister's boyfriend is a drug madman who grows dope for outlaw bikers and for 24 hours he torments her as she fights to save her baby and herself.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTc3ODAwOTczMl5BMl5BanBnXkFtZTcwNDQ0NDM1Mw@@._V1_.jpg"
+		},
+		{
+			"id": 141,
+			"Video_Id": "AY-nFSKUia4",
+			"Movie_name": "I Known What I Saw",
+			"Description": "Mackenzie, an attractive and intelligent law student, is besieged by visions of murders she did not commit.",
+			"Movieimg": "https://i.ytimg.com/vi/AY-nFSKUia4/maxresdefault.jpg"
+		},
+		{
+			"id": 142,
+			"Video_Id": "aqhKj8GaF3A",
+			"Movie_name": "The Tracker",
+			"Description": "Private investigator Connor Spears (Casper Van Dien) reluctantly revisits a past romance when he finds out that the Chinese Mafia has abducted his beautiful ex-girlfriend, Kim.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjMyYTQ1OWQtYWVkNy00M2NhLWJiZjctZDFhYzU2NzM3ZTc2XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 143,
+			"Video_Id": "aHexa3LGAmg",
+			"Movie_name": "Dirty Lies",
+			"Description": "An under-appreciated, over worked assistant entrusted with a million dollar necklace races to find out which of his friends betrayed him, as he battles a desperate criminal duo bent on stealing the necklace.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNWMzMGI2ZjItY2M4MS00NjQwLThiZDQtMGVhODYwYzQ5NzkyXkEyXkFqcGdeQXVyNDI1MTgwODU@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 144,
+			"Video_Id": "8fbF_eWlw9o",
+			"Movie_name": "Loophole",
+			"Description": "When architect Stephen Booker loses his partnership, he finds jobs hard to come by, and with money in short supply, he unwittingly becomes involved in a daring scheme to rob one of London's biggest bank vaults.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjQyNDIzNzIyNl5BMl5BanBnXkFtZTgwNjUxMjU5NjM@._V1_.jpg"
+		},
+		{
+			"id": 145,
+			"Video_Id": "G9LGseUEFdI",
+			"Movie_name": "Daughter of the Wolf",
+			"Description": "Clair Hamilton is a military veteran whose son Charlie has been kidnapped. She brings a bag of money as ransom for Charlie but at the exchange the kidnappers is double-crossed.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjUzM2EzYWQtMDM4NS00NDY1LWJlNjEtYjMwMTllNGY5YTg1XkEyXkFqcGdeQXVyMTMyOTcyNA@@._V1_.jpg"
+		},
+		{
+			"id": 146,
+			"Video_Id": "3kNKI6X7O0E",
+			"Movie_name": "Dark Amazon",
+			"Description": "A film crew tracks a group of researchers and their breakthrough disease research. While battling through the rainforest, things turn deadly leaving them fighting to survive.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTg2MzU3ODQyN15BMl5BanBnXkFtZTgwNDYwNDUwOTE@._V1_.jpg"
+		},
+		{
+			"id": 147,
+			"Video_Id": "fxTa7WwkYAA",
+			"Movie_name": "The Champions",
+			"Description": "A martial-arts champion recruits Jane to compete in a vicious, all-female underground tournament. After months of rigorous preparation, the young woman is ready to square off against the world's deadliest fighters.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Champions_xlg.png/220px-Champions_xlg.png"
+		},
+		{
+			"id": 148,
+			"Video_Id": "BtXWz9RfdNs",
+			"Movie_name": "Killer Shark",
+			"Description": "A group of friends on vacation on a private yacht get stranded out in the middle of the sea. What's worse a gigantic mutated shark attacks them. Now they must fight to survive both the shark and other challenges waiting for them.",
+			"Movieimg": "https://i.ytimg.com/vi/BtXWz9RfdNs/maxresdefault.jpg"
+		},
+		{
+			"id": 149,
+			"Video_Id": "pcW5lLhpaAo",
+			"Movie_name": "Wrong Car",
+			"Description": "A paroled man picks up the wrong rental vehicle and quickly realizes that he is the target of an entire police force. The cops will do anything to stop the corruption testimony of a woman he discovered tied-up in the vehicle's trunk.",
+			"Movieimg": "https://m.media-amazon.com/images/I/81ibiwyS88L._RI_.jpg"
+		},
+		{
+			"id": 150,
+			"Video_Id": "dAsCncSPM4c",
+			"Movie_name": "Noah",
+			"Description": "God decides to wash away the sins of mankind through an apocalyptic flood. Before that happens, Noah is tasked with building an ark that can carry his family and a breeding pair of all animals.",
+			"Movieimg": "https://i.ytimg.com/vi/iCXFLKr1zTg/movieposter.jpg"
 		}
 	],
 	"MovieSlider":[
